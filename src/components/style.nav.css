@@ -1,0 +1,64 @@
+links {
+    display: flex;
+    flex: 1;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+links #logo {
+    color: rgb(236, 203, 111);
+    padding: 2px 25px;
+    font-size: 2.6em;
+    transition: all .5s;
+
+}
+
+
+
+links #logo:hover {
+    background-color: transparent;
+    color: rgb(201, 127, 78);
+    text-shadow: 4px 5px rgba(0, 0, 0, .06);
+}
+
+links a {
+    display: flex;
+    flex-direction: row;
+    padding: 5px 10px;
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    transition: all .4s;
+}
+
+links a:hover {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    /* box-shadow: 4px 5px rgba(0, 0, 0, .06); */
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    transition: all .5s;
+}
+
+.drop-down .drop-down-text {
+    visibility: hidden;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 0.75);
+    color: rgb(0, 0, 0);
+    text-align: left;
+    /* border-radius: 6px; */
+    margin-top: 15px;
+    padding: 5px;
+    transition: transform .5s;
+    position: absolute;
+    z-index: 3;
+}
+
+.drop-down:hover .drop-down-text {
+    visibility: visible;
+    /* transform: scale(3.02); */
+    transform: translateY(6px);
+}

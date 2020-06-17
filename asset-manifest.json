@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/TaboulehFinder/static/css/main.43af3c9b.chunk.css",
+    "main.js": "/TaboulehFinder/static/js/main.b5ccfe76.chunk.js",
+    "main.js.map": "/TaboulehFinder/static/js/main.b5ccfe76.chunk.js.map",
+    "runtime-main.js": "/TaboulehFinder/static/js/runtime-main.85dd79d9.js",
+    "runtime-main.js.map": "/TaboulehFinder/static/js/runtime-main.85dd79d9.js.map",
+    "static/js/2.dcefa08e.chunk.js": "/TaboulehFinder/static/js/2.dcefa08e.chunk.js",
+    "static/js/2.dcefa08e.chunk.js.map": "/TaboulehFinder/static/js/2.dcefa08e.chunk.js.map",
+    "index.html": "/TaboulehFinder/index.html",
+    "precache-manifest.9cad7f70af41f3a76ce69ddbe78290bb.js": "/TaboulehFinder/precache-manifest.9cad7f70af41f3a76ce69ddbe78290bb.js",
+    "service-worker.js": "/TaboulehFinder/service-worker.js",
+    "static/css/main.43af3c9b.chunk.css.map": "/TaboulehFinder/static/css/main.43af3c9b.chunk.css.map",
+    "static/js/2.dcefa08e.chunk.js.LICENSE.txt": "/TaboulehFinder/static/js/2.dcefa08e.chunk.js.LICENSE.txt",
+    "static/media/call.png": "/TaboulehFinder/static/media/call.e3244472.png",
+    "static/media/flower.png": "/TaboulehFinder/static/media/flower.bdaa7b38.png",
+    "static/media/lemon.png": "/TaboulehFinder/static/media/lemon.178f64df.png",
+    "static/media/location.png": "/TaboulehFinder/static/media/location.d13e9f80.png",
+    "static/media/logo.svg": "/TaboulehFinder/static/media/logo.5d5d9eef.svg",
+    "static/media/olive-oil.png": "/TaboulehFinder/static/media/olive-oil.68f5a81d.png",
+    "static/media/parsley.png": "/TaboulehFinder/static/media/parsley.953cc376.png",
+    "static/media/salt-and-pepper.png": "/TaboulehFinder/static/media/salt-and-pepper.2a246621.png",
+    "static/media/tabouleh.png": "/TaboulehFinder/static/media/tabouleh.2d8bfb5a.png",
+    "static/media/tomato.png": "/TaboulehFinder/static/media/tomato.c688b12f.png",
+    "static/media/wheat(1).png": "/TaboulehFinder/static/media/wheat(1).ec7fe2d6.png",
+    "static/media/wheat.png": "/TaboulehFinder/static/media/wheat.79fd11ca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85dd79d9.js",
+    "static/js/2.dcefa08e.chunk.js",
+    "static/css/main.43af3c9b.chunk.css",
+    "static/js/main.b5ccfe76.chunk.js"
+  ]
+}

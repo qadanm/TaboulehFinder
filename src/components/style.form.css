@@ -30,12 +30,12 @@
 .green {
   /* color: rgb(227, 89, 91); red */
   /* color: rgb(235, 173, 59); orange */
-  /* color: rgb(133, 172, 50); green */
+  color: rgb(133, 172, 50);
   /* color: rgb(101, 186, 209); blue */
 }
 
 .red {
-  /* color: rgb(227, 89, 91); red */
+  color: rgb(227, 89, 91);
   /* color: rgb(235, 173, 59); orange */
   /* color: rgb(133, 172, 50); green */
   /* color: rgb(101, 186, 209); blue */
@@ -44,7 +44,7 @@
 .dot {
   color: rgb(101, 186, 209);
   font-size: 1.1em;
-  visibility: hidden;
+  /* visibility: hidden; */
 }
 
 /* form {
@@ -69,7 +69,8 @@
   background-color: #ffffff;
 }
 
-.expressionContainer {}
+.expressionContainer {
+}
 
 .logoContainer {
   display: flex;
@@ -170,7 +171,6 @@ input:focus {
   font-size: 1.6em;
 }
 
-
 @media only screen and (max-width: 615px) {
   .title {
     font-size: 1.4em;
@@ -187,7 +187,6 @@ input:focus {
   }
 
   button {
-
     font-size: 1.5em;
   }
 
@@ -202,7 +201,6 @@ input:focus {
   }
 
   .instructionsContainer h3 {
-
     font-size: 1.4em;
   }
 }
@@ -211,7 +209,6 @@ input:focus {
   .title {
     font-size: 1.3em;
   }
-
 
   .logo img {
     width: 2.9rem;
@@ -242,7 +239,6 @@ input:focus {
   .title {
     font-size: 1.25em;
   }
-
 
   .logo img {
     width: 2.8rem;
@@ -291,7 +287,7 @@ input:focus {
 
   input {
     padding-left: 20px;
-    font-size: .9em;
+    font-size: 0.9em;
   }
 
   .alert {

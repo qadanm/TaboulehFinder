@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TaboulehFinder/precache-manifest.2e3bb09483d8fa769439c95e78b1e09f.js"
+  "/TaboulehFinder/precache-manifest.b0090e6f5760a44322d2ff6a7632ffb2.js"
 );
 
 self.addEventListener('message', (event) => {

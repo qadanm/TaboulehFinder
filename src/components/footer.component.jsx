@@ -10,7 +10,8 @@ const FooterPagePro = () => {
         padding: "50px",
         fontSize: "2.5vw",
         backgroundColor: "rgba(101, 186, 209)",
-        color: "white"
+        color: "white",
+        margin: "0"
       }}
       className="footerContainer"
     >

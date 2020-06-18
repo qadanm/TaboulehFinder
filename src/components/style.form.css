@@ -7,7 +7,7 @@
   justify-items: center;
   align-content: baseline;
   align-content: center;
-  width: 100%;
+  /* width: 100%; */
   /* padding: 10px;
   margin: 5px; */
 }
@@ -63,8 +63,8 @@
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  padding: 10px;
-  width: 100%;
+  /* padding: 10px; */
+  /* width: 100%; */
   /* justify-content: center; */
   background-color: #ffffff;
 }

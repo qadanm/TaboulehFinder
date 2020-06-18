@@ -27,7 +27,7 @@
 }
 
 .infoCardContainers {
-  padding: 10px;
+  /* padding: 10px; */
   align-content: center;
   align-items: center;
 }
@@ -61,7 +61,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 100%;
+  /* width: 100%; */
 }
 
 .pngContainer {
@@ -78,7 +78,8 @@
   height: auto;
 }
 
-.questionContainer {}
+.questionContainer {
+}
 
 .question {
   font-size: 3vw;
@@ -252,7 +253,6 @@ ul {
 }
 
 @media only screen and (max-width: 750px) {
-
   li {
     font-size: 4vw;
     padding-top: 10px;

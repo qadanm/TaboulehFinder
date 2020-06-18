@@ -168,3 +168,19 @@
     }
   }
 }
+@media only screen and (max-width: 500px) {
+  .address img {
+    width: 3rem;
+    height: auto;
+    padding: 30px;
+  }
+
+  .phone-number img {
+    width: 2.7rem;
+    height: auto;
+    padding: 30px;
+  }
+  .card {
+    padding-top: 100px;
+  }
+}

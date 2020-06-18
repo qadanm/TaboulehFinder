@@ -131,7 +131,7 @@ ul {
 
 @media only screen and (max-width: 550px) {
   .introText {
-    font-size: 5vw;
+    font-size: 4vw;
   }
 
   .hr {
@@ -313,6 +313,15 @@ ul {
     width: 7vw;
     height: auto;
   }
+  .question {
+    font-size: 5vw;
+    text-align: left;
+  }
+
+  .answer {
+    text-align: left;
+    font-size: 4vw;
+  }
 }
 
 @media only screen and (max-width: 430px) {
@@ -325,6 +334,15 @@ ul {
   ul li .image img {
     width: 7.5vw;
     height: auto;
+  }
+  .question {
+    font-size: 5.2vw;
+    text-align: left;
+  }
+
+  .answer {
+    text-align: left;
+    font-size: 4.2vw;
   }
 }
 

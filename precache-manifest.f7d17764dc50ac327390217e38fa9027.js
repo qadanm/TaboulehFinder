@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63fa35f23cfd0a3c9f5fc6f0831e1dcd",
+    "revision": "02081d261348b99b630099e77e5d7aab",
     "url": "/TaboulehFinder/index.html"
   },
   {
-    "revision": "e6801973eaef663e24d7",
-    "url": "/TaboulehFinder/static/css/main.1fa9f242.chunk.css"
+    "revision": "227ddd7b85ea03214703",
+    "url": "/TaboulehFinder/static/css/main.035b3aa4.chunk.css"
   },
   {
     "revision": "e6ef27a3d9a18649b659",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TaboulehFinder/static/js/2.dcefa08e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6801973eaef663e24d7",
-    "url": "/TaboulehFinder/static/js/main.b5ccfe76.chunk.js"
+    "revision": "227ddd7b85ea03214703",
+    "url": "/TaboulehFinder/static/js/main.a8d33233.chunk.js"
   },
   {
     "revision": "cbec8bcaf5aeb588f0ed",

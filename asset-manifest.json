@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TaboulehFinder/static/css/main.1fa9f242.chunk.css",
-    "main.js": "/TaboulehFinder/static/js/main.b5ccfe76.chunk.js",
-    "main.js.map": "/TaboulehFinder/static/js/main.b5ccfe76.chunk.js.map",
+    "main.css": "/TaboulehFinder/static/css/main.035b3aa4.chunk.css",
+    "main.js": "/TaboulehFinder/static/js/main.a8d33233.chunk.js",
+    "main.js.map": "/TaboulehFinder/static/js/main.a8d33233.chunk.js.map",
     "runtime-main.js": "/TaboulehFinder/static/js/runtime-main.85dd79d9.js",
     "runtime-main.js.map": "/TaboulehFinder/static/js/runtime-main.85dd79d9.js.map",
     "static/js/2.dcefa08e.chunk.js": "/TaboulehFinder/static/js/2.dcefa08e.chunk.js",
     "static/js/2.dcefa08e.chunk.js.map": "/TaboulehFinder/static/js/2.dcefa08e.chunk.js.map",
     "index.html": "/TaboulehFinder/index.html",
-    "precache-manifest.520db534dc15c69efeef70ab255a7f8b.js": "/TaboulehFinder/precache-manifest.520db534dc15c69efeef70ab255a7f8b.js",
+    "precache-manifest.f7d17764dc50ac327390217e38fa9027.js": "/TaboulehFinder/precache-manifest.f7d17764dc50ac327390217e38fa9027.js",
     "service-worker.js": "/TaboulehFinder/service-worker.js",
-    "static/css/main.1fa9f242.chunk.css.map": "/TaboulehFinder/static/css/main.1fa9f242.chunk.css.map",
+    "static/css/main.035b3aa4.chunk.css.map": "/TaboulehFinder/static/css/main.035b3aa4.chunk.css.map",
     "static/js/2.dcefa08e.chunk.js.LICENSE.txt": "/TaboulehFinder/static/js/2.dcefa08e.chunk.js.LICENSE.txt",
     "static/media/call.png": "/TaboulehFinder/static/media/call.e3244472.png",
     "static/media/flower.png": "/TaboulehFinder/static/media/flower.bdaa7b38.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.85dd79d9.js",
     "static/js/2.dcefa08e.chunk.js",
-    "static/css/main.1fa9f242.chunk.css",
-    "static/js/main.b5ccfe76.chunk.js"
+    "static/css/main.035b3aa4.chunk.css",
+    "static/js/main.a8d33233.chunk.js"
   ]
 }

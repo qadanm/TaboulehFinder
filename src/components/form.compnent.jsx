@@ -82,10 +82,16 @@ const Form = props => {
 export var Error = function() {
   return (
     <div className="alert">
-      <ScrollIntoViewIfNeeded>
+      <ScrollIntoViewIfNeeded
+        options={{
+          scrollMode: "always",
+          block: "nearest"
+        }}
+      >
         <div className="expressionContainer">
           <h1>ooopsy daisy!</h1>
         </div>
+
         <div className="laughingTaboulehContainer">
           <iframe
             src="https://giphy.com/embed/7Xyhhl496aWel4811p"
@@ -96,6 +102,7 @@ export var Error = function() {
             allowFullScreen
           ></iframe>
         </div>
+
         <div className="alertText">
           <div className="instructionsContainer">
             <h3>

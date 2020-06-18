@@ -106,7 +106,6 @@ class App extends React.Component {
       <div className="App">
         {/* <NavBar /> */}
         <Form loadTabouleh={this.getTabouleh} error={this.state.error} />
-        <Info />
         <Tabouleh
           businesses={this.state.businesses}
           name={this.state.name}
@@ -114,6 +113,14 @@ class App extends React.Component {
           number={this.state.number}
           image={this.state.image}
         />
+        <Info />
+        {/* <Tabouleh
+          businesses={this.state.businesses}
+          name={this.state.name}
+          address={this.state.address}
+          number={this.state.number}
+          image={this.state.image}
+        /> */}
         <FooterPage />
       </div>
     );

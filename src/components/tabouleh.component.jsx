@@ -12,13 +12,13 @@ const Tabouleh = props => {
         <div className="taboulehNearContainer">
           <div className="taboulehNear" id="topOfTaboulehSelection">
             {props.businesses.length > 0 ? (
-              <ScrollIntoViewIfNeeded>
-                <h2>
-                  Tabouleh near&nbsp;
-                  {props.businesses[0].location.city}
-                </h2>
-              </ScrollIntoViewIfNeeded>
-            ) : null}
+              // <ScrollIntoViewIfNeeded>
+              <h2>
+                Tabouleh near&nbsp;
+                {props.businesses[0].location.city}
+              </h2>
+            ) : // </ScrollIntoViewIfNeeded>
+            null}
           </div>
         </div>
       </div>
